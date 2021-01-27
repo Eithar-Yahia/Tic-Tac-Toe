@@ -19,7 +19,7 @@ There are many scenario in the game:
 
 ## Depandancies
 - JavaFX
-- CSS3
+
 ## Screenshots
 You have to Enter your name to Start a game
 
