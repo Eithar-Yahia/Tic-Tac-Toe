@@ -30,4 +30,5 @@ java TicTacToe
 - JavaFX
 - CSS3
 ## Screenshots
-![Alt text](pic1.PNG?raw=true "Optional Title")
+You have to Enter your name to Start a game
+![alt-tag](login.jpeg)
